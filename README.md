@@ -1,6 +1,6 @@
 # skills
 
-My Claude skills. Each folder in [`skills/`](skills) is one skill: a `SKILL.md` with frontmatter (`name`, `description`) and any supporting files.
+Useful Claude skills I've made.
 
 | Skill | What it does |
 |---|---|
@@ -10,4 +10,3 @@ My Claude skills. Each folder in [`skills/`](skills) is one skill: a `SKILL.md` 
 ## Using a skill
 
 - **claude.ai / Claude app:** zip the skill's folder and upload it under Settings → Capabilities → Skills.
-- **Claude Code:** copy the folder into `~/.claude/skills/` (or `.claude/skills/` in a project).
